@@ -1,9 +1,6 @@
 ### Hi! 
 
-#### My name is Adriana Saavedra / @adrimsaav,
-
-
-#### Full-Stack Developer + Software Engineer
+#### My name is Adriana Saavedra / @adrimsaav, a Full-Stack Developer + Software Engineer
 
   ######   ✰ What I use daily: .py, .js, .html, .css 👩🏽‍💻
   ######   ✰ How to reach me: adrimsaav@gmail.com 💌
