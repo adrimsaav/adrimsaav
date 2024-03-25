@@ -1,5 +1,8 @@
-- 👋 Hi, my name is Adriana Saavedra / @adrimsaav
-- 👀 I’m interested in creating capstone projects that will strengthen my current skills.
-- 🌱 I’m currently learning Java.
-- 📫 How to reach me: adrimsaav@gmail.com
-- 💞️ Fun fact: I am in a band called Afternoon Fantasies, and play the bass! 🎸
+# Hi! 
+
+My name is Adriana Saavedra / @adrimsaav,
+Full-Stack Developer + Software Engineer
+
+  ✰ What I use daily: .py, .js, .html, .css
+  ✰ How to reach me: adrimsaav@gmail.com
+  ✰ Fun fact: I am in a band called LEAP YR, and play the bass! 🎸
