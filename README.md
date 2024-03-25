@@ -1,7 +1,7 @@
 Hi! 
 
 My name is Adriana Saavedra / @adrimsaav,
-Full-Stack Developer + Software Engineer
+- Full-Stack Developer + Software Engineer
 
 - 👋 Hi, my name is Adriana Saavedra / @adrimsaav
 - 👀 I’m interested in creating capstone projects that will strengthen my current skills.
