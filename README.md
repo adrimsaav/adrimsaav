@@ -1,4 +1,4 @@
-# Hi! 
+Hi! 
 
 My name is Adriana Saavedra / @adrimsaav,
 Full-Stack Developer + Software Engineer
